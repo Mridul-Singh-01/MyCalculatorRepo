@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author mridu
- *
- */
-module MyCalculator {
-}
